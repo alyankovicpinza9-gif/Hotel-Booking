@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Booking Platform",
+  "description": "A modern hotel hotel booking application featuring interactive searches, sorting, detailed hotel/room views, responsive checkout, and a persistent booking history dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
